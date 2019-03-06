@@ -9,11 +9,11 @@ This first day of class is an all-day session with the students that is mostly l
 - [Kickoff!](#kickoff) *[30 minutes]*
 - [Academic Overview](#academic) *[60 minutes]*
 - [Unix & Git](#ug) *[60 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
+- [Why behind the Why - Holly](#holly) *[75 minutes]*
 
 *Lunch Break*
 
-- [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
+- [Continuing going over the assigned readings](#readings) *[60 minutes]*
 - Discuss Career Coaching assignments
 - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
 - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
