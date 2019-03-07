@@ -76,6 +76,14 @@ Introduction to core the concepts of file management from the command line and t
 
 [-top-](#top)
 
+<a id="holly"></a>
+
+## Why behind the Why
+
+Your new career starts today, and that goes beyond learning just the tools and code. Holly will be guiding us to discover our Why behind the Why.
+
+[-top-](#top)
+
 <a id="linter"></a>
 
 ## Set up a JavaScript linter
