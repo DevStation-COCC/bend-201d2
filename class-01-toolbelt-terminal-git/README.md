@@ -63,7 +63,7 @@ By doing a few quick tests and exercises, as detailed below, we will ensure that
 - VSCode packages: ensure that the linter is enabled
 - Chrome: how to open Chrome from the console, and how to open the developer tools in Chrome
 - Git: enter `which git` in the command line to verify installation
-- Directory structure: together we will set up a directory at ~/codefellows/201/ in which you will store your classwork. We will go over directory structure in general and compare it to GUI
+- Directory structure: together we will set up a directory at ~/apprenti/201/ in which you will store your classwork. We will go over directory structure in general and compare it to GUI
 
 
 [-top-](#top)
