@@ -13,8 +13,7 @@ This first day of class is an all-day session with the students that is mostly l
 
 *Lunch Break*
 
-- [Continuing going over the assigned readings](#readings) *[60 minutes]*
-- Discuss Career Coaching assignments
+- [Go over the assigned readings](#readings) *[60 minutes]*
 - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
 - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
@@ -41,7 +40,6 @@ As a result of completing Lecture 1 of Code 201, students will be able to:
 <a id="kickoff"></a>
 
 ## Kickoff!
-
 This is the welcome and introduction to Code Fellows. Students will meet the campus manager and learn about campus operations and policies.
 
 [-top-](#top)
@@ -53,7 +51,6 @@ This is the welcome and introduction to Code Fellows. Students will meet the cam
 The instructor will give an overview of the topics to be covered in this course and how those topics fit into the overall academic program at Code Fellows.
 
 [-top-](#top)
-
 <a id="toolbelt"></a>
 
 ## Verify Student Toolbelts
