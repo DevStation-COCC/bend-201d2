@@ -1,0 +1,9 @@
+* {
+  border: 1px solid black;
+}
+
+p {
+  background-color: green;
+  width: 50%;
+  margin-top: 25%;
+}

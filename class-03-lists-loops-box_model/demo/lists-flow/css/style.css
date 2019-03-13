@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+header {
+  width: 200px;
+  border: 10px solid orange;
+  padding: 50px;
+  /*margin: 100px;*/
+  margin: 0 auto;
+}
+
+h1 {
+  color: blue;
+  margin: inherit;
+}
