@@ -27,12 +27,12 @@ Assignments are submitted using a professional-grade git-flow. If you haven't do
 
 # Accountability Partners
 
-Matt   => Mark, Mike
-Tia    => Felipe, Mike
-Mike   => Tia, Jeff
-Jeff   => Matt, Mike
-Mark   => Matt, Chloie
-Chloie => Mark, Ed
-Felipe => Tia, Conor
-Conor  => Ed, Felipe
-Ed     => Conor, Chloie
+Matt   => Mark, Mike\
+Tia    => Felipe, Mike\
+Mike   => Tia, Jeff\
+Jeff   => Matt, Mike\
+Mark   => Matt, Chloie\
+Chloie => Mark, Ed\
+Felipe => Tia, Conor\
+Conor  => Ed, Felipe\
+Ed     => Conor, Chloie\
