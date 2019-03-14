@@ -35,4 +35,4 @@ Mark   => Matt, Chloie\
 Chloie => Mark, Ed\
 Felipe => Tia, Conor\
 Conor  => Ed, Felipe\
-Ed     => Conor, Chloie\
+Ed     => Conor, Chloie
