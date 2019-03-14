@@ -24,3 +24,15 @@ Lab-time code assignments follow each class time. You can find these assignments
 Instructions for completing and submitting the assignments can be found in the README files of the appropriate subdirectories.
 
 Assignments are submitted using a professional-grade git-flow. If you haven't done so already, it's time to get comfortable with the core git commands. Don't worry, we'll give you step by step help as needed.
+
+# Accountability Partners
+
+Matt   => Mark, Mike
+Tia    => Felipe, Mike
+Mike   => Tia, Jeff
+Jeff   => Matt, Mike
+Mark   => Matt, Chloie
+Chloie => Mark, Ed
+Felipe => Tia, Conor
+Conor  => Ed, Felipe
+Ed     => Conor, Chloie

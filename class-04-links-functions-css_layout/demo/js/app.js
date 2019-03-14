@@ -48,4 +48,5 @@ var pingpong = function(){
 
 var pingpongIntervalId = setInterval(pingpong, 1000);
 
+// Comment out to turn on Ping Pong
 clearInterval(pingpongIntervalId, 5000);
