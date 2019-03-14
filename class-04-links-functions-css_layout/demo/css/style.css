@@ -1,0 +1,68 @@
+/* * {
+  outline: 1px solid black;
+} */
+
+body {
+  background-color: grey;
+}
+
+#content {
+  margin: auto;
+  width: 70%;
+}
+
+#profilePicture {
+  max-width: 17%;
+  height: auto;
+  border-radius: 50%;
+
+  position: fixed;
+  top: 10px;
+}
+
+#pawPatrol {
+  text-align: center;
+} 
+
+ul {
+  list-style-type: none;
+}
+
+#pawPatrol ul {
+  margin: auto;
+  width: 60%;
+}
+
+#pawPatrol ul li {
+  float: left;
+  padding: 5px;
+  margin: 2px;
+}
+
+article {
+  background-color: white;
+  margin-top: 150px;
+  padding: 5px;
+  height: 265px;
+}
+
+.avatar {
+  max-width: 100%;
+  float: right;
+}
+
+article li {
+  padding: 3px;
+}
+
+h2 {
+  margin-top: 2px;
+}
+
+.catchPhrase {
+  font-style: italic;
+}
+
+ol {
+  padding-left: 20px;
+}
