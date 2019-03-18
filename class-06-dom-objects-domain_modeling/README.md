@@ -79,3 +79,9 @@ As a result of completing Lecture 6 of Code 201, students will:
 - p.236: Examining the DOM in Chrome
 
 [-top-](#top)
+
+## One-on-one Meetings
+
+This week we will be having a one-on-one meeting. This will be an opportunity to review your progress, answer any questions you have. We will start the process of scheduling those meetings very soon.
+
+[-top-](#top)
