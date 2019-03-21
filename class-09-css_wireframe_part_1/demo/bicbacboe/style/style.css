@@ -1,0 +1,30 @@
+#container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 150px);
+  grid-gap: 30px;
+  grid-template-areas:  "one two three"
+                        "four five six"
+                        "sevent eight nine";
+  
+/*   grid-auto-flow: column; */
+}
+
+.item {
+  outline: 3px green solid;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 2.5em;
+  
+  padding: 15%;
+}
+
+.item_1 {
+/*   grid-column: 2;
+  grid-row: 2; */
+}
+
+.item_3 {
+/*   grid-area: three; */
+/*   grid-area: one; */
+}
