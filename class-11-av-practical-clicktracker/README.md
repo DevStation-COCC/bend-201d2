@@ -4,13 +4,24 @@
 ## Lecture 11
 
 ## Today's Schedule
-- Announcements
+#### 8:00am - 9:45am
+- [Announcements](#announcements)
+  - How was the week?
   - Project Week is getting closer! Pitch your project idea in the Canvas assignment.
+  - 301 Entrance exam this weekend
   - Review feedback from week 2 surveys
-- Discuss upcoming Career Coaching assignments
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[90 minutes]*
+  - Discuss upcoming Career Coaching assignments
+- Code Review / Lecture
+
+#### 10:00am - 11:15am
+- Radical Candor with Holly Hoeksema
+
+#### 12:00pm - 1:30pm
+- Lunch 'n' Lightning Talks
+
+#### 1:30pm - ???
+- Demo + BusMall
+
 
 **Learning Objectives**
 
@@ -41,5 +52,26 @@ As a result of completing Lecture 11 of Code 201, students will be able to:
 - p.205-206: Timeline of Flash, video, and audio
 
 - [MDN article on video and audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
+[-top-](#top)
+
+<a id="announcements"></a>
+
+## Announcements
+
+#### Feedback Week 2
+
+- Overall positive
+- Live coding/demo
+- Pair programming
+
+[-top-](#top)
+
+#### Career Coaching Assignments
+
+1. Partner Power Hour
+2. Attend a Meetup (BendJS - **April 9**)
+3. Resume Review By Your Accountability Partner
+4. Talk to Your Network
 
 [-top-](#top)
