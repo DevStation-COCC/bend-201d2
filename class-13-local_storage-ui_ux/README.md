@@ -22,4 +22,7 @@ As a result of completing Lecture 13 of Code 201, students will:
 - [Read this article on local storage](http://diveintohtml5.info/storage.html)
 - Local storage is the gateway to understanding basic concepts of persistence.
 
+- [Read about JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+- [Read about JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+
 [-top-](#top)
