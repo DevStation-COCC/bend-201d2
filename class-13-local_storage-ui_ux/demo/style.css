@@ -1,0 +1,32 @@
+#grid-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(3, 50px);
+}
+
+#btnDecrement, #btnIncrement {
+  font-size: 1.5em;
+  grid-row-start: 2;
+}
+
+#btnDecrement {
+  grid-column: 3 / 5;
+}
+
+#counterValue {
+  grid-column: 6 / 8;
+  grid-row: 2;
+
+  text-align: center;
+}
+
+#btnIncrement {
+  grid-column: 9 / 11;
+}
+
+#btnReset {
+  grid-column: 12;
+
+  background-color: red;
+  font-weight: bold;
+}
