@@ -80,6 +80,7 @@ Short overview of the basics of jQuery and online resources:
   - Mike
   - Tia
 - Team One
+
   - Chloie
   - Conor
   - Ed
