@@ -8,6 +8,7 @@
   - Reminder: weekly surveys will go out today
 - Discuss upcoming Career Coaching assignments
 - Code Review *[60 minutes]*
+- [Final Project Teams](#teams)
 - [301 Preview](#301) *[30 minutes]*
 - [Final Project Overview](#project) *[60 minutes]*
 
@@ -65,6 +66,25 @@ Short overview of the basics of jQuery and online resources:
 - https://jquery.com
 - https://oscarotero.com/jquery
 - https://developers.google.com/speed/libraries
+
+[-top-](#top)
+
+<a id="teams"></a>
+
+## Teams
+
+
+- Team A
+  - Jeff
+  - Mark
+  - Matt
+  - Mike
+- Team One
+  - Chloie
+  - Conor
+  - Ed
+  - Felipe
+  - Tia
 
 [-top-](#top)
 
