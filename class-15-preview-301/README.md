@@ -75,16 +75,16 @@ Short overview of the basics of jQuery and online resources:
 
 
 - Team A
-  - Jeff
   - Mark
   - Matt
   - Mike
+  - Tia
 - Team One
   - Chloie
   - Conor
   - Ed
   - Felipe
-  - Tia
+  - Jeff
 
 [-top-](#top)
 
